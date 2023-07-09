@@ -7,7 +7,7 @@
 ## First Term : ![Progress Bar](https://progress-bar.dev/20/?scale=100&title=Completed&width=100&color=0000FF&suffix=%)
 Unit Header                                    | Progress Bar
 ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------
-[unit 1:  Diploma Prerequisites]()             | ![Progress Bar](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
+[unit 1:  Diploma Prerequisites](Frist_Term)   | ![Progress Bar](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
 [Unit 2: C Programming]()                      | ![Progress Bar](https://geps.dev/progress/32?dangerColor=800000&warningColor=ff9900&successColor=006600) 
 [Unit 3: Embedded C]()                         | ![Progress Bar](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
 [Unit 4: System Architect]()                   | ![Progress Bar](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
