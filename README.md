@@ -4,7 +4,7 @@
 ---
 ### Diploma Contents :
 -----------------------
-## First Term : ![Progress Bar](https://progress-bar.dev/27/?scale=100&title=Completed&width=100&color=0000FF&suffix=%)
+## First Term : ![Progress Bar](https://progress-bar.dev/30/?scale=100&title=Completed&width=100&color=0000FF&suffix=%)
 Unit Header                                    | Progress Bar
 ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------
 [unit 1:  Diploma Prerequisites](Frist_Term/Unit_1_Diploma_Prerequisites)   | ![Progress Bar](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
