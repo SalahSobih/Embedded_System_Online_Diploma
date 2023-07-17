@@ -1,5 +1,5 @@
 # Embedded_System_Online_Diploma
-![diploma picture](https://github.com/SalahSobih/Embedded_System_Online_Diploma/blob/main/embedded%20system%20diploma.jpg)
+![diploma picture](https://github.com/SalahSobih/Embedded_System_Online_Diploma/blob/main/Embedded%20system%20diploma%20img.jpg)
 
 ---
 ### Diploma Contents :
