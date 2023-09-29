@@ -4,11 +4,11 @@
 ---
 ### Diploma Contents :
 -----------------------
-## First Term : ![Progress Bar](https://progress-bar.dev/50/?scale=100&title=Completed&width=100&color=0000FF&suffix=%)
+## First Term : ![Progress Bar](https://progress-bar.dev/75/?scale=100&title=Completed&width=100&color=0000FF&suffix=%)
 Unit Header                                    | Progress Bar
 ---------------------------------------------- | ---------------------------------------------------------------------------------------------------------
 [unit 1:  Diploma Prerequisites](Frist_Term/Unit_1_Diploma_Prerequisites)   | ![Progress Bar](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600)
-[Unit 2: C Programming](Frist_Term/Unit_2_C_Programming)               | ![Progress Bar](https://geps.dev/progress/75?dangerColor=800000&warningColor=ff9900&successColor=006600) 
+[Unit 2: C Programming](Frist_Term/Unit_2_C_Programming)               | ![Progress Bar](https://geps.dev/progress/100?dangerColor=800000&warningColor=ff9900&successColor=006600) 
 [Unit 3: Embedded C](Frist_Term/Unit_3_Embedded_C)                         | ![Progress Bar](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
 [Unit 4: System Architect](Frist_Term/Unit_4_System_Architect)                   | ![Progress Bar](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
 [Unit 5: First Term Final Exan and Project](Frist_Term/Unit_5_First_First_Term_Final_Exan_and_Project)  | ![Progress Bar](https://geps.dev/progress/0?dangerColor=800000&warningColor=ff9900&successColor=006600)
